@@ -1,6 +1,6 @@
 # URL Shortener CLI Tool
 
-A simple command-line tool written in Rust to shorten URLs and look them up later. This project demonstrates URL hashing, file-based storage, and command-line interface handling, making it an ideal small project for learning Rust.
+A simple command-line tool written in Rust to shorten URLs and look them up later. This project demonstrates URL hashing, file-based storage, and command-line interface handling.
 
 ## Features
 
@@ -13,12 +13,10 @@ A simple command-line tool written in Rust to shorten URLs and look them up late
 To install this tool, you'll need [Rust](https://www.rust-lang.org/tools/install) installed on your machine. Then, clone this repository and build the project:
 
 ```bash
-git clone https://github.com/your-username/url_shortener.git
+git clone https://github.com/yen936/url_short.git
 cd url_shortener
 cargo build --release
 ```
-
-The compiled binary will be in `target/release/url_shortener`.
 
 ## Usage
 
